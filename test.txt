@@ -1,0 +1,6 @@
+[33m02 09 2017 20:22:57.209:WARN [karma]: [39mNo captured browser, open http://localhost:9876/
+[32m02 09 2017 20:22:57.218:INFO [karma]: [39mKarma v1.7.1 server started at http://0.0.0.0:9876/
+[32m02 09 2017 20:22:57.218:INFO [launcher]: [39mLaunching browser Chrome with unlimited concurrency
+[32m02 09 2017 20:22:57.231:INFO [launcher]: [39mStarting browser Chrome
+[31m02 09 2017 20:22:57.232:ERROR [launcher]: [39mNo binary for Chrome browser on your platform.
+  Please, set "CHROME_BIN" env variable.
