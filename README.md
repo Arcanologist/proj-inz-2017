@@ -58,12 +58,12 @@ poleceniem ng serve
 powinna wystartować na http://localhost:4200.
 
 TL;DR Linux
-sudo apt-get install -y nodejs &
-sudo npm install -g @angular/cli &
-sudo npm install &
-sudo npm i ng2-file-upload --save &
-sudo npm install @agm/core &
-sudo npm install angular2-virtual-scroll --save &
+sudo apt-get install -y nodejs &&
+sudo npm install -g @angular/cli &&
+sudo npm install &&
+sudo npm i ng2-file-upload --save &&
+sudo npm install @agm/core &&
+sudo npm install angular2-virtual-scroll --save &&
 ng serve
 
 
