@@ -23,6 +23,6 @@ Pliki sa uploadowane na serwer do katalogu "upload" który znajduje sie w głów
 cały prosty bakend jest opaarty na technologi node.js.
 
 TL;DR Linux
-sudo npm install &
-sudo npm install gulp -g &
+sudo npm install &&
+sudo npm install gulp -g &&
 gulp
