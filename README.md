@@ -57,6 +57,16 @@ nstepnie jeśli wszystko dziala poprawnie uruchamiamy aplikacje
 poleceniem ng serve
 powinna wystartować na http://localhost:4200.
 
+TL;DR Linux
+sudo apt-get install -y nodejs &&
+sudo npm install -g @angular/cli &&
+sudo npm install &&
+sudo npm i ng2-file-upload --save &&
+sudo npm install @agm/core &&
+sudo npm install angular2-virtual-scroll --save &&
+ng serve
+
+
 Instalacja prostego bakednu jest opisana w pliku README.MD znajdujacym sie w katalogu z bakcendem.
 
 Do działania uploadu musza zgadzać sie proty bakcendu jaki frontendu .
